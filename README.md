@@ -1,2 +1,2 @@
-#isolat.app
+#isolat.com
 app-ads-txt-host
