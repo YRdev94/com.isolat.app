@@ -1,2 +1,2 @@
-# iSolat
+# isolat
 app-ads-txt-host
